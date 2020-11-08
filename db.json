@@ -1,0 +1,34 @@
+{
+  "artistas": [
+    {
+      "id": 1,
+      "artista": "Soda Stereo",
+      "pais": "Argentina",
+      "periodo": "1982-1997"
+    },
+    {
+      "id": 2,
+      "artista": "Heroes del Silencio",
+      "pais": "España",
+      "periodo": "1984-1996"
+    },
+    {
+      "id": 3,
+      "artista": "Caifanes",
+      "pais": "Mexico",
+      "periodo": "1986-1996 y 2011-Actualidad"
+    },
+    {
+      "artista": "Selena",
+      "pais": "Texas",
+      "periodo": "NULL",
+      "id": 5
+    },
+    {
+      "artista": "Ana Barbara",
+      "pais": "Argentina",
+      "periodo": "Editado",
+      "id": 6
+    }
+  ]
+}
